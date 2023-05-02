@@ -1,4 +1,3 @@
-//eng
 Welcome to my Github Profile!
 
 I am a frontend developer who loves creating fun and unusual projects, such as games, music videos, sound apps, and more. I enjoy exploring new technologies and experimenting with them to create interesting and surprising things.
@@ -27,7 +26,7 @@ Email: facundo.romano121@gmail.com
 
 Thank you for visiting my Github profile! I hope you enjoy my projects and I look forward to working with you in the future.
 
-//es
+
 Bienvenidos a mi perfil de Github!
 
 Soy un programador frontend que ama crear proyectos divertidos e inusuales, como juegos, videoclips, aplicaciones con sonido y más. Me encanta explorar nuevas tecnologías y experimentar con ellas para crear cosas interesantes y sorprendentes.

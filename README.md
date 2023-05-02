@@ -28,10 +28,9 @@ Email: facundo.romano121@gmail.com
 Thank you for visiting my Github profile! I hope you enjoy my projects and I look forward to working with you in the future.
 
 
-<hr>
-<hr>
-
-
+.
+.
+.
 
 
 Bienvenidos a mi perfil de Github!

@@ -21,7 +21,8 @@ Estoy buscando trabajo
 
 ¡Estoy buscando trabajo como desarrollador frontend! Si te gusta lo que ves aquí y crees que puedo ser una buena incorporación a tu equipo, por favor contáctame en mi correo electrónico, linkedin o aquí mismo.
 
-Linkedin: https://www.linkedin.com/in/facundo-romano-jsdev/
+Linkedin: https://www.linkedin.com/in/facundo-romano-jsdev/ 
+
 Correo: facundo.romano121@gmail.com
 
 

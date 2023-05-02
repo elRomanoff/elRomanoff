@@ -22,6 +22,7 @@ I am Looking for Work
 I am currently looking for work as a frontend developer! If you like what you see here and think I could be a good addition to your team, please contact me at my email.
 
 Linkedin: https://www.linkedin.com/in/facundo-romano-jsdev/ 
+
 Email: facundo.romano121@gmail.com
 
 Thank you for visiting my Github profile! I hope you enjoy my projects and I look forward to working with you in the future.
@@ -51,6 +52,7 @@ Estoy buscando trabajo
 ¡Estoy buscando trabajo como desarrollador frontend! Si te gusta lo que ves aquí y crees que puedo ser una buena incorporación a tu equipo, por favor contáctame en mi correo electrónico, linkedin o aquí mismo.
 
 Linkedin: https://www.linkedin.com/in/facundo-romano-jsdev/ 
+
 Correo: facundo.romano121@gmail.com
 
 

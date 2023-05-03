@@ -1,10 +1,10 @@
 <h1>Welcome to my Github Profile!</h1>
 
-I am a frontend developer who loves creating fun and unusual projects, such as games, music videos, sound apps, and more. I enjoy exploring new technologies and experimenting with them to create interesting and surprising things.
+I am a frontend developer who loves creating fun and unusual projects, such as games, music videos, sound apps, and more. I enjoy exploring technologies in depth and experimenting with them to create interesting and surprising things.
 <h2>Featured Projects</h2>
-
+I frequently find inspiration in anime or video games, just like the next examples:
 <ul>
-   <li>Doki-Doki Web Browser Game: a complete clone of a famous anime graphic novel. This project is made with Vanilla JS, CSS, and ExpressJs. It is responsive and packed with animations, effects, and sounds. Additionally, it hides a creepy story behind its colorful and innocent appearance.</li>
+   <li>Doki-Doki in Web Browser: a complete clone of a famous anime graphic novel. This project is made with Vanilla JS, CSS, and ExpressJs. It is responsive and packed with animations, effects, and sounds. Additionally, it hides a creepy story behind its colorful and innocent appearance.</li>
     
    <li>Goteo Remix Music Video: a stunning visual experience with trap music and pixelart style. This project is made with React and CSS. While the song is playing, there are animations, state changes, and other effects that give the illusion of watching a music video.</li>
 

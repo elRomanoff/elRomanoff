@@ -13,11 +13,10 @@ I frequently find inspiration in anime or video games, just like the next exampl
    <li>Pokemon Red Interface: a pixel-perfect clone of the interface of one of the Pokemon Red games for the Nintendo Gameboy Advance. This project is made with React, CSS, and PokeApi. It allows you to choose 6 different state changes that alter the app and also gives the option to log in with Google to activate a surprise. https://elromanoff.github.io/pokeapi/</li>
 </ul>
 
-<div style="display: flex; flex-direction: column">
    <img style="height: 250px" src="https://c.wallhere.com/photos/2c/75/Doki_Doki_Literature_Club_DDLC_visual_novel_Sayori_Doki_Doki_Literature_Club_anime_girls_pink_eyes_Monika_Doki_Doki_Literature_Club_Yuri_Doki_Doki_Literature_Club-1822983.jpg!d"></img>
    <img style="height: 250px" src="https://i.ytimg.com/vi/3haLtS0vZ6I/hqdefault.jpg"></img>
    <img style="height: 250px" src="https://static.wikia.nocookie.net/ddlc/images/0/06/DokiDokiStart.jpg/revision/latest/scale-to-width-down/670?cb=20180519193544&path-prefix=es"></img>
-</div>
+
 
 <h2>Technologies and Skills</h2>
 

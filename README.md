@@ -15,7 +15,7 @@ I frequently find inspiration in anime or video games, just like the next exampl
 
 <img style="height: 250px" src="https://c.wallhere.com/photos/2c/75/Doki_Doki_Literature_Club_DDLC_visual_novel_Sayori_Doki_Doki_Literature_Club_anime_girls_pink_eyes_Monika_Doki_Doki_Literature_Club_Yuri_Doki_Doki_Literature_Club-1822983.jpg!d"></img>
 <img style="height: 250px" src="https://i.ytimg.com/vi/3haLtS0vZ6I/hqdefault.jpg"></img>
-<img src="https://static.wikia.nocookie.net/ddlc/images/0/06/DokiDokiStart.jpg/revision/latest/scale-to-width-down/670?cb=20180519193544&path-prefix=es"></img>
+<img style="height: 250px" src="https://static.wikia.nocookie.net/ddlc/images/0/06/DokiDokiStart.jpg/revision/latest/scale-to-width-down/670?cb=20180519193544&path-prefix=es"></img>
 
 <h2>Technologies and Skills</h2>
 

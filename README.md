@@ -12,6 +12,9 @@ I frequently find inspiration in anime or video games, just like the next exampl
 
    <li>Pokemon Red Interface: a pixel-perfect clone of the interface of one of the Pokemon Red games for the Nintendo Gameboy Advance. This project is made with React, CSS, and PokeApi. It allows you to choose 6 different state changes that alter the app and also gives the option to log in with Google to activate a surprise. https://elromanoff.github.io/pokeapi/</li>
 </ul>
+
+<img src="https://i.ytimg.com/vi/3haLtS0vZ6I/hqdefault.jpg"></img>
+
 <h2>Technologies and Skills</h2>
 
     HTML, CSS, and JavaScript

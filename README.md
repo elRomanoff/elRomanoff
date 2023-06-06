@@ -21,10 +21,10 @@ I frequently find inspiration in anime or video games, just like the next exampl
 <h2>Technologies and Skills</h2>
 
     HTML, CSS, and JavaScript
-    React and Vue.js
+    React and Angular
     CSS Animations
     TailwindCSS
-    Basics of Backend development
+    Basics of Backend development (Node and Python)
 
 <h3>I am Looking for Work</h3>
 
